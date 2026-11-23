@@ -1,6 +1,6 @@
 ### Hi, I'm Weizhi Wang
 
-Software engineer in Shanghai building local-first developer tools, Apple apps, and reproducible AI workflows.
+Full-time AI user in Shanghai. Mostly supervising coding agents while they build Apple apps, local-first Mac tools, and questionable 3D phone experiments.
 
 - **Personal Studio:** [popcornnn.xyz](https://popcornnn.xyz) · [LinkedIn](https://www.linkedin.com/in/weizhi-wang-dev/)
 - **Daily Brief:** [brief.popcornnn.xyz](https://brief.popcornnn.xyz) — daily AI, security & open-source technical broadsheet ([`daily-brief`](https://github.com/Popcornnnnnnnn/daily-brief))
