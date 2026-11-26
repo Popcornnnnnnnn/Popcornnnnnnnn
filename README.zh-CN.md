@@ -8,6 +8,6 @@
 - **Daily Brief：** [brief.popcornnn.xyz](https://brief.popcornnn.xyz) — 每日 AI、安全与开源技术大报（[`daily-brief`](https://github.com/Popcornnnnnnnn/daily-brief)）
 - **Earprint：** [earprint.popcornnn.xyz](https://earprint.popcornnn.xyz) — 100% 本地运行的 iOS 3D 耳机收藏卡应用（[`earprint`](https://github.com/Popcornnnnnnnn/earprint)）
 - **Watchpost：** [watchpost.popcornnn.xyz](https://watchpost.popcornnn.xyz) — 面向编程智能体的无界面本地后台桥接器（[`watchpost`](https://github.com/Popcornnnnnnnn/watchpost)）
-- **Phone 3D UI Studio：** [在线 3D 工作室](https://popcornnnnnnnn.github.io/phone-3d-ui-studio/) — 可交互 3D iPhone UI 展示台与空间 Elastic Tray 物理演示（[`phone-3d-ui-studio`](https://github.com/Popcornnnnnnnn/phone-3d-ui-studio)）
+- **Phone 3D UI Studio：** [phone3d.popcornnn.xyz](https://phone3d.popcornnn.xyz) — 浏览器可玩的 3D iPhone UI 展台与 Elastic Tray 物理游乐场，支持手机扫码 WebRTC 配对（[`phone-3d-ui-studio`](https://github.com/Popcornnnnnnnn/phone-3d-ui-studio)）
 - **Photo Search：** [`photo-search`](https://github.com/Popcornnnnnnnn/photo-search) — macOS 上的 Apple 照片库本地优先语义搜索工具
 - **macOS 与 AI 工具集：** [`WordTail`](https://github.com/Popcornnnnnnnn/word-tail) · [`Port Tools`](https://github.com/Popcornnnnnnnn/port-tools) · [`SpecPack`](https://github.com/Popcornnnnnnnn/specpack) · [`Personal Skills`](https://github.com/Popcornnnnnnnn/personal-skills)
