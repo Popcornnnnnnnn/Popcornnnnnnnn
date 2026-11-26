@@ -1,5 +1,7 @@
 ### Hi, I'm Weizhi Wang
 
+**English** · [简体中文](README.zh-CN.md)
+
 Full-time AI user in Shanghai. Mostly supervising coding agents while they build Apple apps, local-first Mac tools, and questionable 3D phone experiments.
 
 - **Personal Studio:** [popcornnn.xyz](https://popcornnn.xyz) · [LinkedIn](https://www.linkedin.com/in/weizhi-wang-dev/)
